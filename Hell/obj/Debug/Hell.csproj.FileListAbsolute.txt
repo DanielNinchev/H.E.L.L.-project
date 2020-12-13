@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Hell\Hell\obj\Debug\Hell.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Hell\Hell\obj\Debug\Hell.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Hell\Hell\bin\Debug\Hell.exe.config
+C:\Users\User\source\repos\Hell\Hell\bin\Debug\Hell.exe
+C:\Users\User\source\repos\Hell\Hell\bin\Debug\Hell.pdb
+C:\Users\User\source\repos\Hell\Hell\obj\Debug\Hell.exe
+C:\Users\User\source\repos\Hell\Hell\obj\Debug\Hell.pdb
